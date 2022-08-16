@@ -152,11 +152,11 @@ Comparar dos matrices elemento a elemento. (Usar la función `equal` de Numpy)
 
 ### Ejercicio 16
 
-Crear una función que devuelva una matriz de numpy de $n * m$ dimensiones pasadas por parámetro con valores aleatorios entre 0 y 1 en sus posiciones. Sugerencia: usar la función `random.random` de numpy.
+Crear una función que devuelva una matriz de numpy de $n \times m$ dimensiones pasadas por parámetro con valores aleatorios entre 0 y 1 en sus posiciones. Sugerencia: usar la función `random.random` de numpy.
 
 ### Ejercicio 17
 
-Utilizando la función anterior, crear una matriz de numpy de $n * m$ dimensiones pasadas por parámetro con valores aleatorios entre 0 y $ en sus posiciones. Sugerencia: usar la función `multiply` de numpy.
+Utilizando la función anterior, crear una matriz de numpy de $n \times m$ dimensiones pasadas por parámetro con valores aleatorios entre 0 y $ en sus posiciones. Sugerencia: usar la función `multiply` de numpy.
 
 ### Ejercicio 18
 
