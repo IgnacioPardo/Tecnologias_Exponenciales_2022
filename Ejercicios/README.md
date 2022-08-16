@@ -168,7 +168,7 @@ $$[1, 2, 3, 4] \implies [[1, 2], [3, 4]]$$
 ### Ejercicio 19
 
 Tomando una matriz de forma $(n, n)$, crear una matriz de forma $(n^2)$.
-Ejemplo: Si la matriz es de forma $(9)$, la matriz debe ser de forma $(3, 3)$.
+Ejemplo: Si la matriz es de forma $(3, 3)$, la matriz debe ser de forma $(9)$.
 
 $$[[1, 2, 3], [4, 5, 6], [7, 8, 9]] \implies [1, 2, 3, 4, 5, 6, 7, 8, 9]$$
 
