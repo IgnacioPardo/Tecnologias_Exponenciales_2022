@@ -101,10 +101,15 @@ normalizar([30, 60, 90, 120, 150], 30, 150)
 Leer el archivo ```usuarios.csv``` y obtener un DataFrame con los datos.
 
 a. Obtener una Serie con los nombres de todos los usuarios.
-c. Obtener el promedio de edad de todos los usuarios.
+
 b. Obtener una Serie con los nombres de todos los usuarios que tengan edad menor al promedio de edad.
+
+c. Obtener el promedio de edad de todos los usuarios.
+
 d. Graficar las edades usando `matplotlib.pyplot`
+
 e. Dada una edad, obtener el nombre de todos los usuarios que tengan esa edad.
+
 f. Obtener los nombres y edades de los usuarios que sean mas altos que el promedio de usuarios.
 
 ### Ejercicio 12: PIL
@@ -112,14 +117,23 @@ f. Obtener los nombres y edades de los usuarios que sean mas altos que el promed
 Leer la imagen ```imagen.png```.
 
 a. Obtener la cantidad de pixeles blancos de la imagen. (Usar la función `getpixel` de PIL).
+
 b. Implementar una función que tome una imagen y devuelva un diccionario con la cantidad de ocurrencias de cada color en la imagen.
+
 d. Graficar los valores de los colores mas ocurrentes de la imagen usando matplotlib. En el eje $x$ se debe mostrar el color y en el eje $y$ la cantidad de ocurrencias. Sugerencia: usar la función `hist` de `matplotlib.pyplot`
+
 e. Voltear la imagen. (Usar la función `transpose` de PIL)
+
 f. Resizear la imagen a un tamaño de $100*100$. (Usar la función `resize` de PIL)
+
 h. Convertir la imagen a escala de grises. (Usar la función `convert` de PIL)
+
 i. Cropear la imagen a una región rectangular de $100*100$. (Usar la función `crop` de PIL)
+
 j. Rotar la imagen $90º$ grados. (Usar la función `rotate` de PIL)
+
 k. Aplicar una máscara a la imagen.
+
 l. Guardar alguna de las imágenes obtenidas en los puntos "e" en adelante en un archivo 'nueva_imagen.png'. (Usar la función `save` de PIL)
 
 ## Parte 3: Numpy
