@@ -156,7 +156,7 @@ Crear una función que devuelva una matriz de numpy de $n \times m$ dimensiones 
 
 ### Ejercicio 17
 
-Utilizando la función anterior, crear una matriz de numpy de $n \times m$ dimensiones pasadas por parámetro con valores aleatorios entre 0 y $ en sus posiciones. Sugerencia: usar la función `multiply` de numpy.
+Utilizando la función anterior, crear una matriz de numpy de $n \times m$ dimensiones pasadas por parámetro con valores aleatorios entre 0 y $k$ en sus posiciones. Sugerencia: usar la función `multiply` de numpy.
 
 ### Ejercicio 18
 
