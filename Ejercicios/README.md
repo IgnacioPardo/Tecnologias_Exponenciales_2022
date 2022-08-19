@@ -179,4 +179,5 @@ Crear una función que tome una matriz de numpy y devuelva una matriz de numpy c
 ## Bonus
 
 a. Generar con Numpy un archivo `usuarios.csv` para ser usado en el ejercicio 11.
+
 b. Resolver el ejercicio 12 usando funciones de numpy y opcionalmente OpenCV.
