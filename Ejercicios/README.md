@@ -161,7 +161,7 @@ Utilizando la función anterior, crear una matriz de numpy de $n \times m$ dimen
 ### Ejercicio 18
 
 Tomando una matriz de forma $(n)$, crear una matriz de forma $(\sqrt{n}, \sqrt{n})$.
-Ejemplo: Si la matriz es de forma $(4)$, la matriz debe ser de forma $(2, 2)$. Bonus: Especificar que sucede si la matriz tiene de forma $(n)$ no un cuadrado perfecto.
+Ejemplo: Si la matriz es de forma $(4)$, la matriz debe ser de forma $(2, 2)$. Bonus: Especificar que sucede si la matriz tiene de forma $(n)$ a un numero que no es un cuadrado perfecto.
 
 $$[1, 2, 3, 4] \implies [[1, 2], [3, 4]]$$
 
