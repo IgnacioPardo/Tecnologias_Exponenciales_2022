@@ -120,21 +120,21 @@ a. Obtener la cantidad de pixeles blancos de la imagen. (Usar la función `getpi
 
 b. Implementar una función que tome una imagen y devuelva un diccionario con la cantidad de ocurrencias de cada color en la imagen.
 
-d. Graficar los valores de los colores mas ocurrentes de la imagen usando matplotlib. En el eje $x$ se debe mostrar el color y en el eje $y$ la cantidad de ocurrencias. Sugerencia: usar la función `hist` de `matplotlib.pyplot`
+c. Graficar los valores de los colores mas ocurrentes de la imagen usando matplotlib. En el eje $x$ se debe mostrar el color y en el eje $y$ la cantidad de ocurrencias. Sugerencia: usar la función `hist` de `matplotlib.pyplot`
 
-e. Voltear la imagen. (Usar la función `transpose` de PIL)
+d. Voltear la imagen. (Usar la función `transpose` de PIL)
 
-f. Resizear la imagen a un tamaño de $100*100$. (Usar la función `resize` de PIL)
+e. Resizear la imagen a un tamaño de $100*100$. (Usar la función `resize` de PIL)
 
-h. Convertir la imagen a escala de grises. (Usar la función `convert` de PIL)
+f. Convertir la imagen a escala de grises. (Usar la función `convert` de PIL)
 
-i. Cropear la imagen a una región rectangular de $100*100$. (Usar la función `crop` de PIL)
+g. Cropear la imagen a una región rectangular de $100*100$. (Usar la función `crop` de PIL)
 
-j. Rotar la imagen $90º$ grados. (Usar la función `rotate` de PIL)
+h. Rotar la imagen $90º$ grados. (Usar la función `rotate` de PIL)
 
-k. Aplicar una máscara a la imagen.
+i. Aplicar una máscara a la imagen.
 
-l. Guardar alguna de las imágenes obtenidas en los puntos "e" en adelante en un archivo 'nueva_imagen.png'. (Usar la función `save` de PIL)
+j. Guardar alguna de las imágenes obtenidas en los puntos "d" en adelante en un archivo 'nueva_imagen.png'. (Usar la función `save` de PIL)
 
 ## Parte 3: Numpy
 
@@ -161,7 +161,7 @@ Utilizando la función anterior, crear una matriz de numpy de $n \times m$ dimen
 ### Ejercicio 18
 
 Tomando una matriz de forma $(n)$, crear una matriz de forma $(\sqrt{n}, \sqrt{n})$.
-Ejemplo: Si la matriz es de forma $(4)$, la matriz debe ser de forma $(2, 2)$.
+Ejemplo: Si la matriz es de forma $(4)$, la matriz debe ser de forma $(2, 2)$. Bonus: Especificar que sucede si la matriz tiene de forma $(n)$ no un cuadrado perfecto.
 
 $$[1, 2, 3, 4] \implies [[1, 2], [3, 4]]$$
 
