@@ -1,0 +1,3 @@
+[submodule "SNN"]
+	path = SNN
+	url = https://github.com/IgnacioPardo/SNN
